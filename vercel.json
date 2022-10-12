@@ -4,6 +4,11 @@
       "source": "/spn",
       "destination": "https://tally.so/r/nPdVW0",
       "permanent": false
+    },
+    {
+      "source": "/ama",
+      "destination": "https://tally.so/r/mD4grR",
+      "permanent": false
     }
   ]
 }
