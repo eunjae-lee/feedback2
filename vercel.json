@@ -19,6 +19,11 @@
       "source": "/new-job-feedback",
       "destination": "https://tally.so/r/nGx8NZ",
       "permanent": false
+    },
+    {
+      "source": "/new-job-reco",
+      "destination": "https://tally.so/r/nPdVMV",
+      "permanent": false
     }
   ]
 }
