@@ -1,8 +1,8 @@
 {
   "redirects": [
     { 
-      "source": "/test",
-      "destination": "https://github.com/vercel/vercel", 
+      "source": "/spn",
+      "destination": "https://tally.so/r/nPdVW0",
       "permanent": false
     }
   ]
