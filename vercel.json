@@ -14,6 +14,11 @@
       "source": "/in-paris",
       "destination": "https://tally.so/r/mRGEX9",
       "permanent": false
+    },
+    {
+      "source": "/new-job-feedback",
+      "destination": "https://tally.so/r/nGx8NZ",
+      "permanent": false
     }
   ]
 }
