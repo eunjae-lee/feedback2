@@ -9,6 +9,11 @@
       "source": "/ama",
       "destination": "https://tally.so/r/mD4grR",
       "permanent": false
+    },
+    {
+      "source": "/in-paris",
+      "destination": "https://tally.so/r/mRGEX9",
+      "permanent": false
     }
   ]
 }
